@@ -5,12 +5,16 @@ repo: upptime-board
 sites:
   - name: Google
     url: https://www.google.com
+    group: CRM
   - name: Wikipedia
     url: https://en.wikipedia.org
+    group: CRM
   - name: Hacker News
     url: https://news.ycombinator.com
+    group: HRD
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    group: HRD
   - name: IPv6 test
     url: forwardemail.net
     port: 80
